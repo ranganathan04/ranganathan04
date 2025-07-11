@@ -19,7 +19,7 @@
 - 🧠 Web Dev | AI/ML | Data Science | MERN Stack  
 - 🌟 Participant in **Novi Tech 30 Days Masterclass**  
 - 📢 Presenting project at **1st International Conference (Sri Ramakrishna College)**  
-- 📬 Contact: **ranganathan04@example.com**
+- 📬 Contact: **ranga.ragu02@gmail.com**
 
 ---
 
@@ -57,10 +57,10 @@
 
 | Project | Tech Stack | Live Demo | GitHub |
 |--------|------------|-----------|--------|
-| 🪑 **Furniture Store Website** | PHP, CSS(Bootstrp), MySql | [Live](https://your-netlify-site.netlify.app) | [GitHub](https://github.com/ranganathan04/furniture-store) |
-| 📊 **DevPulse + Unemployment Prediction** | MERN + AI/ML | [Live](https://devpulse-unemployment-prediction.netlify.app/). | [GitHub](https://github.com/ranganathan04/devpulse-unemployment) |
-| 🛡️ **Spam Detection System** | Python, Flask, NLP, ML | [Live](https://smart-india-hackathon-wmol.onrender.com) | [GitHub](https://github.com/ranganathan04/spam-detection) |
-| 🌿 **EcoHub – Eco Awareness Portal** | HTML, CSS, JS (Frontend UI) | [Live] (https://echo-hub.netlify.app/) | [GitHub](https://github.com/ranganathan04/eco-hub) |
+| 🪑 **Furniture Store Website** | PHP, CSS(Bootstrp), MySql | [Live](...) | [GitHub](https://github.com/ranganathan04/Final-Year-Project---B.Sc.-CS) |
+| 📊 **DevPulse + Unemployment Prediction** | MERN + AI/ML | [Live](https://devpulse-unemployment-prediction.netlify.app/). | [GitHub] (https://github.com/ranganathan04/FinalYearProject---M.Sc.CS). |
+| 🛡️ **Spam Detection System** | Python, Flask, NLP, ML | [Live](...) | [GitHub](https://github.com/ranganathan04/spam-detection) |
+| 🌿 **EcoHub – Eco Awareness Portal** | HTML, CSS, JS (Frontend UI) | [Live] (https://echo-hub.netlify.app/) | [GitHub] (https://github.com/ranganathan04/add-on-project/). |
 
 
 ---
