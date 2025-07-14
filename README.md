@@ -59,7 +59,7 @@
 |--------|------------|-----------|--------|
 | 🪑 **Furniture Store Website** | PHP, CSS(Bootstrp), MySql | [Live](...) | [GitHub](https://github.com/ranganathan04/Final-Year-Project---B.Sc.-CS) |
 | 📊 **DevPulse + Unemployment Prediction** | MERN + AI/ML | [Live](https://devpulse-unemployment-prediction.netlify.app/). | [GitHub] (https://github.com/ranganathan04/FinalYearProject---M.Sc.CS). |
-| 🛡️ **Spam Detection System** | Python, Flask, NLP, ML | [Live](...) | [GitHub](https://github.com/ranganathan04/Smart-India-Hackathon) |
+| 🛡️ **Spam Detection System** | Python, Flask, NLP, ML | [Live](https://7b357260-2e14-4583-a60c-18f7b7736478-00-nf8vgibkmwic.kirk.replit.dev/) | [GitHub](https://github.com/ranganathan04/Smart-India-Hackathon) |
 | 🌿 **EcoHub – Eco Awareness Portal** | HTML, CSS, JS (Frontend UI) | [Live] (https://echo-hub.netlify.app/) | [GitHub] (https://github.com/ranganathan04/add-on-project/). |
 
 
